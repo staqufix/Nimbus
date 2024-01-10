@@ -1,2 +1,2 @@
-# Nimbus
+# NimbusCloud
 A Cloud Storage App
