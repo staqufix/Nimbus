@@ -1,0 +1,11 @@
+.FileField {
+  background-color: lightgray;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  max-width: 200px;
+  padding: 5px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+}
